@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **sksolanki1366@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Lr_YrxJG4IISlVH4Xk4ZJpB_OkGD_Sdk/view?usp=sharing](https://drive.google.com/file/d/1Lr_YrxJG4IISlVH4Xk4ZJpB_OkGD_Sdk/view?usp=sharing)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Lr_YrxJG4IISlVH4Xk4ZJpB_OkGD_Sdk/view?usp=sharing](https://drive.google.com/file/d/1uSC8kQ-jAYDSzXtbQciR6yqg6Qgw0tu9/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sheshkaran-solanki-13j2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sheshkaran-solanki-13j2006" height="30" width="40" /></a>
